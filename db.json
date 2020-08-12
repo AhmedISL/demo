@@ -1,8 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "categoryId": 1, "categoryName": "Marketing", "totalCourses": 17, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-digital-marketing-course-2018-all-in-1-strategies%2F&psig=AOvVaw2F9xjgAi7QMStGcxA51CIE&ust=1597349863458000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjAuKSjlusCFQAAAAAdAAAAABAD" },
+    { "categoryId": 2, "categoryName": "UX Design", "totalCourses": 13, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fu-learnonline.co.za%2Fproduct%2Fux-design-user-experience-design-course-theory-only%2F&psig=AOvVaw1_a_e1z8M02hH5EdgAjk_N&ust=1597350086748000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiVlY2klusCFQAAAAAdAAAAABAD" },
+    { "categoryId": 3, "categoryName": "Photography", "totalCourses": 10, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-ultimate-photography-course-beginner-to-advanced%2F&psig=AOvVaw24leOtRtP_4dLdtgkFcOei&ust=1597350115090000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjkwZqklusCFQAAAAAdAAAAABAD" },
+    { "categoryId": 4, "categoryName": "Business", "totalCourses": 5, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdenali2013.org%2Fchoose-best-institute-business-courses%2F&psig=AOvVaw1SEztU3ptMdZWZf9mwU9ZK&ust=1597350155009000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiutq6klusCFQAAAAAdAAAAABAJ" },
+    { "categoryId": 5, "categoryName": "Software Development", "totalCourses": 25, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itsharks.co%2Fc%2Fsoftware-development&psig=AOvVaw0KVhbZ0_Ckn8BcTOfDIBBq&ust=1597350199248000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjby8OklusCFQAAAAAdAAAAABAJ" },
+    { "categoryId": 6, "categoryName": "Embedded Systems", "totalCourses": 5, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fitsharks.co%2Fc%2Fcourse%2Fembedded-system-diploma&psig=AOvVaw1oISuH4stASXyRrvhU6oiC&ust=1597350233123000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMChlNSklusCFQAAAAAdAAAAABAD" },
+    { "categoryId": 7, "categoryName": "Video Editing", "totalCourses": 6, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvideo-editing-in-adobe-premiere-pro-free-basics-course%2F&psig=AOvVaw2kjUqvTDdO43BFSIePR5XB&ust=1597350268693000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjLseSklusCFQAAAAAdAAAAABAD" },
+    { "categoryId": 8, "categoryName": "Data Analysis", "totalCourses": 5, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIOzMI6uj0Kk&psig=AOvVaw2lVmioH3WYETvJfdQj3TYR&ust=1597350295009000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjx6_GklusCFQAAAAAdAAAAABAD" },
+    { "categoryId": 9, "categoryName": "Technical Writing", "totalCourses": 10, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmindmajix.com%2Ftechnical-writing-training&psig=AOvVaw1zdHI2VL1GhzS9x9Ea1OOM&ust=1597350318595000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDZ3_yklusCFQAAAAAdAAAAABAJ" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
